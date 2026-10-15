@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
-data/
+data/*
+!data/maldi_ihc/
 outputs/
 checkpoints/
 *.pt
